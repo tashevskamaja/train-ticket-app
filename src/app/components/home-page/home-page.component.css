@@ -1,0 +1,59 @@
+.image-grid {
+    height: 180px;
+    width: 180px;
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0;
+    background-position: center;
+    background-size: contain;
+    box-sizing: border-box;
+    display: block;
+}
+
+h4.usp-text {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 32px;
+    color: black;
+}
+
+p.usp-text {
+    color: black;
+    text-align: center;
+}
+
+.jumbotron {
+    background: url(https://www.matterhorngotthardbahn.ch/fileadmin/_processed_/c/1/csm_Regionalzug-Winter-Viadukt-Lax-MGBahn_79c0af6efc.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 650px;
+}
+
+span.text2 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+p.text2 {
+    font-size: large;
+      
+}
+
+div.text2 {
+    background-color:white; 
+    opacity: 0.8; 
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: -200px;
+    width: 750px;
+}
+
+.contact {
+    margin-left: 550px;
+}
+
+img.ios{
+    max-width: 50px;
+}

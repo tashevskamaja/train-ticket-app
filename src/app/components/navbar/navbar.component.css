@@ -1,0 +1,9 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+a {
+    color: inherit;
+}
+
+a.active {
+    border-bottom: 2px solid white;
+}

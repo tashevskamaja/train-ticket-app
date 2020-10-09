@@ -1,0 +1,158 @@
+.jumbotron {
+    background: url(https://s3-eu-west-1.amazonaws.com/cmsmedia.thetrainline.com/cms/6280/deutsche-bahn-1x.jpg);
+    background-size: 100% 100%;
+    height: 550px;
+}
+
+
+.featured {
+    color: white;
+}
+
+.featured h1{
+    padding-top: 60px;
+}
+.featured h6 {
+    margin: 10px;
+    padding: 15px;
+    color: black;
+}
+
+section {
+    margin-top: 270px;
+}
+
+.transbox {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid none;
+    border-radius: 10px;
+    opacity: 0.6;
+}
+
+.header_2{
+    font-size: 40px !important;
+    line-height: 48px;    
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.facts {
+    margin-bottom: 40px;
+    display: block;
+    color: black;
+}
+
+.container {
+    width: 100%;
+    max-width: 1170px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.row {
+    max-width: inherit;
+    margin-left: 0;
+    display: block;
+}
+
+.col-md-1 {
+    width: 8.33333%;
+    float: left;
+    position: relative;
+    margin-top: 65px;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    
+    max-width: 100%;
+}
+.col-md-5 {
+    width: 41.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    margin-top: 65px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: block;
+    max-width: 100%;
+    
+}
+
+.facts img {
+    max-width: 432px !important;
+    margin: auto;
+    display: block;
+    width: 432px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 8px !important;
+    border: 0;
+}
+.right-padding {
+    padding-right: 60px;
+    display: block;
+}
+
+.intro {
+    max-width: 432px;
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 16px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    box-sizing: border-box;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+p.paragraph {
+    margin-bottom: 30px !important;
+    max-width: 432px;
+    text-align: left;
+    color: rgb(99, 99, 99);
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin: 0 0 11.5px;
+    box-sizing: border-box;
+}
+.col-md-pull-5 {
+    margin-top: -200px !important;
+}
+
+.col-md-5#third {
+    margin-right: 200px;
+    margin-left: 90px;
+}
+
+.col-md-5#fourth {
+    margin-left: 570px;
+    margin-top: -250px;
+}
+
+.col-md-pull-5#fifth{
+    margin-left: 590px;
+
+}
+

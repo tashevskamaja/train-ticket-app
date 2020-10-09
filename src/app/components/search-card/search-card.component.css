@@ -1,0 +1,10 @@
+.train-ticket-card{
+    width: 400px;
+    margin: 24px auto;
+}
+
+.jumbotron {
+    background: url(https://www.matterhorngotthardbahn.ch/fileadmin/_processed_/b/d/csm_Regionalzug-Winter-Randa-MGBahn_e7e62a7c61.jpg);
+    height: 770px;
+    background-repeat: no-repeat;
+}

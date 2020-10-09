@@ -1,0 +1,26 @@
+.jumbotron {
+    background: url(https://www.matterhorngotthardbahn.ch/fileadmin/_processed_/9/a/csm_Slider-unten-Winter-MGBahn_0298fbd50e.jpg);
+    background-size: 100% 100%;
+    height: 550px;
+}
+
+.formContact {
+    margin-left: 110px;
+}
+.featured {
+    color: white;
+}
+
+.featured h1{
+    padding-top: 60px;
+}
+.featured h6 {
+    margin: 10px;
+    padding: 15px;
+    color: black;
+}
+
+form {
+    width: 550px;
+    margin-left: 50px;
+}
